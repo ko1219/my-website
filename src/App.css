@@ -9,10 +9,10 @@
 }
 
 body {
-  font-family: "Roboto condesed", sans-serif;
+  font-family: "Roboto condensed", sans-serif !important;
 }
 
-/* *******************NAVBAR**************************** */
+/* ******************* NAVBAR **************************** */
 nav {
   z-index: 2;
 }
@@ -21,7 +21,7 @@ nav {
   width: 16.25rem;
 }
 
-/* ********************MENU LINKS************************ */
+/* ******************** MENU LINKS ************************ */
 nav a.nav-link {
   font-size: .8rem;
   letter-spacing: 0.0375rem;
@@ -59,7 +59,7 @@ nav ul li {
   border-top: 0.1875rem solid var(--primary-orange);
 }
 
-/* *******************HEADER**************************** */
+/* ******************* HEADER **************************** */
 .header-wrapper{
   position: relative;
   background: url(wall-and-laptop-background.jpg) no-repeat;
@@ -79,7 +79,6 @@ nav ul li {
   justify-content: center;
   align-items: center;
   text-align: center;
-  font-family: "Roboto condesed", sans-serif;
   z-index: 1;
 }
 
@@ -94,7 +93,7 @@ nav ul li {
   }
 }
 
-/* --------TYPED TEXT----------- */
+/* -------- TYPED TEXT ----------- */
 .typed-text {
   font-size: 2rem;
   color: var(--primary-white);
@@ -109,7 +108,7 @@ nav ul li {
   }
 }
 
-/* --------HEADER MAIN OFFER BUTTON----------- */
+/* -------- HEADER MAIN OFFER BUTTON ----------- */
 .btn-main-offer {
   border: 1px solid var(--primary-red);
   text-transform: uppercase;
@@ -126,7 +125,7 @@ nav ul li {
   transition: .2s ease-in-out;
 }
 
-/* --------PARTICLES JS----------- */
+/* -------- PARTICLES JS ----------- */
 .tsparticles-canvas-el{
   position: absolute;
   height: 100vh;
@@ -137,5 +136,31 @@ nav ul li {
 @media(max-width: 768px){
   .particles-canvas{
     display: none;
+  }
+}
+/* ******************* ABOUT ME **************************** */
+.photo-wrap{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.profile-img{
+  width: 16rem;
+  height: 17rem;
+  border-radius: 50%;
+  padding: .3rem;
+  border: 1px solid var(--primary-orange);
+}
+
+.about-heading{
+  color: var(--primary-orange);
+  text-transform: uppercase;
+}
+
+@media(max-width: 468px){
+  .profile-img{
+    width: 10rem;
   }
 }
