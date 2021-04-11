@@ -71,7 +71,7 @@ nav ul li {
   background: url(wall-and-laptop-background.jpg) no-repeat;
   background-size: cover;
   background-position: center;
-  height: 90vh;
+  height: 100vh;
 }
 
 .main-info {
@@ -334,6 +334,10 @@ nav ul li {
   position: relative;
   margin: 1rem;
 }
+
+.popupbox-wrapper {
+  margin-top: 7rem;
+}
 /* -------- OVERFLOW BOX ----------- */
 .overflow {
   position: absolute;
@@ -513,7 +517,7 @@ nav ul li {
 }
 
 .contacts textarea {
-  height: 12.2rem !important;
+  height: 12.7rem !important;
 }
 
 .contact-btn {
@@ -568,4 +572,26 @@ textarea.form-control {
   .contacts p {
     padding: 0 0.4rem;
   }
+}
+
+/* ******************* FOOTER COMPONENTS ************************ */
+.footer {
+  background: var(--primary-black);
+  color: var(--primary-dark-gray);
+  padding: 3rem;
+}
+
+.footer a {
+  text-decoration: none;
+  color: var(--primary-dark-gray);
+}
+
+.footer a:hover{
+  text-decoration: none;
+  color: var(--primary-orange);
+  cursor: pointer;
+}
+
+.footer p {
+  margin-bottom: 0;
 }
