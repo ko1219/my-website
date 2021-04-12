@@ -13,7 +13,7 @@ const AboutMe = () => {
         <div className="col-lg-6 col-xm-12">
           <h1 className="about-heading">about me</h1>
           <p>
-          Hello! I am Koichi. I'm 4th years college students. I have been developing  website and webapp for 1 year. I'm Full-Stack Web Developer. Technologies I use is MJR3(Mysql, JavaScript, Ruby, Ruby on Rails, React).
+          Hello! I am Koichi. I'm 4th years college student. I have been developing  website and webapp for 1 year. I'm Full-Stack Web Developer. Technologies I use is MJR3(Mysql, JavaScript, Ruby, Ruby on Rails, React).
 
           I learn 2 languages in my university. I specialize in spanish. I have been to Spain for study abroad. I can speak Spanish better than English. So I created Spanish society and I teach them.
 
