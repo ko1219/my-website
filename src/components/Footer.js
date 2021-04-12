@@ -7,8 +7,8 @@ import {
   TwitterIcon,
   RedditShareButton,
   RedditIcon,
-  LineShareButton,
-  LineIcon
+  LinkedinShareButton,
+  LinkedinIcon
   } from 'react-share';
 
 const Footer = () => {
@@ -70,13 +70,13 @@ const Footer = () => {
               >
                 <RedditIcon className="mx-3" size={36}/>
               </RedditShareButton>
-              <LineShareButton
+              <LinkedinShareButton
                 url={"https://www.facebook.com/profile.php?id=100055236709181"}
                 quote={"FullStack Developer"}
                 hashtag="#javascript"
               >
-                <LineIcon className="mx-3" size={36}/>
-              </LineShareButton>
+                <LinkedinIcon className="mx-3" size={36}/>
+              </LinkedinShareButton>
             </div>
             <p className="pt-3 text-center">
               Copyright&copy;
