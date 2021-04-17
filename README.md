@@ -8,11 +8,11 @@
 
 ---
 
-## ![Home](https://i.gyazo.com/56ffaed5166be24eb8a7da742a8cf2e3/row)
+## ![Home](https://i.gyazo.com/56ffaed5166be24eb8a7da742a8cf2e3.mp4/row)
 
-## ![Portfolio](https://i.gyazo.com/bd8711e64a423ed23499e70ce4fe41f7/row)
+## ![Portfolio](https://i.gyazo.com/bd8711e64a423ed23499e70ce4fe41f7.mp4/row)
 
-## ![Overview](https://i.gyazo.com/e8106a3bb2df451a3afa01601180d533/row)
+## ![Overview](https://i.gyazo.com/e8106a3bb2df451a3afa01601180d533.mp4/row)
 
 ---
 
