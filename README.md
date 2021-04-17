@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+# README
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## my-website
 
-## Available Scripts
+### React.js を用いたポートフォリオ用ウェブサイト
 
-In the project directory, you can run:
+このアプリは自分のエンジニアとしての経歴をのせた Web サイトです。 **React.js** で開発しました。
 
-### `yarn start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## ![Curriculums Home](https://i.gyazo.com/8ac1a5a228a42c352fbd10b5839091b0.png)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## ![Curriculums Show](https://i.gyazo.com/92829b54092296e3eddd5290a267a09e.png)
 
-### `yarn test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This app uses:
 
-### `yarn build`
+- React version: `16.12.0`
+- React Hooks API
+- React Context API
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Apps Overview
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+この website は、私自身のエンジニアの経歴とポートフォリオを紹介するものです。
+今後大学を卒業するまでに作ったアプリケーションをのせていきます。
 
-### `yarn eject`
+# How did I create this app?
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+react で初めてウェブサイトを作りました。Bootstrap や React FontAwesome, React particle などのライブラリを使ってフロント部分を作り上げました。React の特有のページを部分ごとに分割していくやり方で開発しました。JSX という記法により JS ファイルの中に HTML をそのまま書き込めるような感覚でした。わざわざ get.elementById などのように HTML を取得するやり方よりもこの JSX の記法の方が可読性が高いと感じました。
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# What's amazing points about this app?
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Link to メソッドで Navbar を押すと参照したい箇所に遷移できるようにした事です。Footer の Contact Form では実際に私の gmail の方にポートフォリオに対するコメントなどを送信できるようにしました。
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+# How should I improve this app?
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+このアプリはまだ完成ではありません。Client の部分は自分が将来関わっていくエンジニアの方々を紹介できるように考えています。また,Experience の部分はまだ記入できていないので、自分のエンジニアとしての成長とともに随時記載したいと思います。
