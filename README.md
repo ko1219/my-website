@@ -8,11 +8,9 @@
 
 ---
 
-## ![Home](https://user-images.githubusercontent.com/73377107/115103207-1403dc80-9f8b-11eb-83a2-2c44db92f540.mp4)
+## ![Home](https://gyazo.com/c764244a8b2d97a60bcc5fb026e0d7e4.png)
 
-## ![Portfolio](https://i.gyazo.com/bd8711e64a423ed23499e70ce4fe41f7.mp4/row)
-
-## ![Overview](https://i.gyazo.com/e8106a3bb2df451a3afa01601180d533.mp4/row)
+## ![Portfolio](https://gyazo.com/9e1f40e99a78a8d439fa69fc9f24b13c.png)
 
 ---
 
