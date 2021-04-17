@@ -8,7 +8,7 @@
 
 ---
 
-## ![Home](https://i.gyazo.com/c764244a8b2d97a60bcc5fb026e0d7e4.png)
+## ![Home](https://i.gyazo.com/c764244a8b2d97a60bcc5fb026e0d7e4.jpg)
 
 ## ![Portfolio](https://gyazo.com/9e1f40e99a78a8d439fa69fc9f24b13c.png)
 
