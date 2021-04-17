@@ -8,7 +8,7 @@
 
 ---
 
-## ![Home](https://i.gyazo.com/56ffaed5166be24eb8a7da742a8cf2e3.mp4/row)
+## ![Home](https://user-images.githubusercontent.com/73377107/115103207-1403dc80-9f8b-11eb-83a2-2c44db92f540.mp4)
 
 ## ![Portfolio](https://i.gyazo.com/bd8711e64a423ed23499e70ce4fe41f7.mp4/row)
 
