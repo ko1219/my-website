@@ -8,9 +8,11 @@
 
 ---
 
-## ![Curriculums Home](https://i.gyazo.com/8ac1a5a228a42c352fbd10b5839091b0.png)
+## ![Home](https://i.gyazo.com/56ffaed5166be24eb8a7da742a8cf2e3.mp4)
 
-## ![Curriculums Show](https://i.gyazo.com/92829b54092296e3eddd5290a267a09e.png)
+## ![Portfolio](https://i.gyazo.com/bd8711e64a423ed23499e70ce4fe41f7.mp4)
+
+## ![Overview](https://i.gyazo.com/e8106a3bb2df451a3afa01601180d533.mp4)
 
 ---
 
@@ -29,7 +31,7 @@ This app uses:
 
 # How did I create this app?
 
-react で初めてウェブサイトを作りました。Bootstrap や React FontAwesome, React particle などのライブラリを使ってフロント部分を作り上げました。React の特有のページを部分ごとに分割していくやり方で開発しました。JSX という記法により JS ファイルの中に HTML をそのまま書き込めるような感覚でした。わざわざ get.elementById などのように HTML を取得するやり方よりもこの JSX の記法の方が可読性が高いと感じました。
+react で初めてウェブサイトを作りました。Bootstrap や React FontAwesome, React particle などのライブラリを使ってフロント部分を作り上げました。React 特有のページを部分ごとに分割していくやり方で開発しました。JSX という記法により JS ファイルの中に HTML をそのまま書き込めるような感覚でした。わざわざ get.elementById などのように HTML を取得するやり方よりもこの JSX の記法の方が可読性が高いと感じました。
 
 # What's amazing points about this app?
 
