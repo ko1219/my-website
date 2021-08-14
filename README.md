@@ -1,7 +1,7 @@
 # README
 
 ## my-website
-[https://laughter-tech-34865.herokuapp.com](url)
+[アプリへのURLです！](https://laughter-tech-34865.herokuapp.com/)
 
 ### React.js を用いたポートフォリオ用ウェブサイト
 
